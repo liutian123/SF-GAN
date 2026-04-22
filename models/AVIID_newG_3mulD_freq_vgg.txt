@@ -1,0 +1,6 @@
+../root/autodl-tmp/results/AVIID_newG_3mulD_freq_vgg/test_latest/images_fake
+# Validation # PSNR: mean: 2.2142e+01, std: 3.3532e+00
+# Validation # SSIM: mean: 5.7043e-01, std: 1.5284e-01
+# Validation # LPIPS: mean: 1.9684e-01, std: 8.6768e-02
+# Validation # MSE: mean: 5.8682e+02, std: 6.6628e+02
+# Validation # FID: mean: 1.2586e+02

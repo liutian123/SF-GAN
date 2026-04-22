@@ -1,0 +1,5 @@
+E:/pix2pix/save/kaist-my700_rec_1/fake
+# Validation # PSNR: mean: 2.9523e+01, std: 3.4892e+00  更优秀
+# Validation # SSIM: mean: 8.0402e-01, std: 8.0586e-02  更优秀
+# Validation # LPIPS: mean: 1.6165e-01, std: 5.1327e-02  优秀
+# Validation # FID: mean: 8.4323e+01  优秀

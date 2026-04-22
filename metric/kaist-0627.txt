@@ -1,0 +1,5 @@
+../results/kaist_pix2pix-1/test_latest/images_fake
+# Validation # PSNR: mean: 2.0387e+01, std: 3.0997e+00
+# Validation # SSIM: mean: 5.7213e-01, std: 1.4450e-01
+# Validation # LPIPS: mean: 2.3135e-01, std: 7.8284e-02
+# Validation # FID: mean: 9.2329e+01

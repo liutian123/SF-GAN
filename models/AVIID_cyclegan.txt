@@ -1,0 +1,6 @@
+../root/autodl-tmp/results/AVIID_cyclegan/test_latest/images_fake
+# Validation # PSNR: mean: 1.8342e+01, std: 1.5787e+00
+# Validation # SSIM: mean: 3.2441e-01, std: 4.9757e-02
+# Validation # LPIPS: mean: 2.2474e-01, std: 6.9774e-02
+# Validation # MSE: mean: 1.0342e+03, std: 5.2407e+02
+# Validation # FID: mean: 9.9839e+01

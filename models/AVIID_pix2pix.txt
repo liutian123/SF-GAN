@@ -1,0 +1,6 @@
+../root/autodl-tmp/results/AVIID_pix2pix/test_latest/images_fake
+# Validation # PSNR: mean: 2.2468e+01, std: 3.6038e+00
+# Validation # SSIM: mean: 5.7738e-01, std: 1.6909e-01
+# Validation # LPIPS: mean: 1.5375e-01, std: 9.1660e-02
+# Validation # MSE: mean: 5.7772e+02, std: 6.9898e+02
+# Validation # FID: mean: 1.0012e+02

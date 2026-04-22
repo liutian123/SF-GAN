@@ -1,0 +1,5 @@
+E:/pix2pix/save/kaist-my700-tev-1/fake
+# Validation # PSNR: mean: 2.9640e+01, std: 3.4680e+00  优秀
+# Validation # SSIM: mean: 8.0594e-01, std: 8.0284e-02    优秀
+# Validation # LPIPS: mean: 1.6526e-01, std: 5.2467e-02   ×
+# Validation # FID: mean: 9.4897e+01                                     ×

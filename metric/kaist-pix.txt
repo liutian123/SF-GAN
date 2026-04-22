@@ -1,0 +1,5 @@
+E:/pix2pix/save/kaist-pix/fake
+# Validation # PSNR: mean: 2.9086e+01, std: 3.4049e+00  越大越好
+# Validation # SSIM: mean: 7.9823e-01, std: 8.4551e-02  越大越好
+# Validation # LPIPS: mean: 1.6335e-01, std: 5.4277e-02  越小越好
+# Validation # FID: mean: 8.8935e+01  越小越好
